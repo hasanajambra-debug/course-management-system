@@ -1,0 +1,8 @@
+# Compiled files
+*.exe
+*.o
+*.out
+course_manager
+
+# Runtime data files created by the program
+*.bin
